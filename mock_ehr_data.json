@@ -1,0 +1,457 @@
+[
+    {
+        "patient_id": "94d82ffe-194a-4148-b371-c68a3e8f79bc",
+        "name": "Kyle Green",
+        "age": 34,
+        "gender": "Male",
+        "medical_conditions": [
+            "obesity",
+            "hypertension",
+            "arthritis"
+        ],
+        "medications": [
+            "atorvastatin",
+            "sertraline"
+        ],
+        "lab_results": {
+            "A1C": 8.3,
+            "BP_sys": 150,
+            "BP_dia": 63,
+            "cholesterol": 181.3,
+            "heart_rate": 81
+        },
+        "location": "Jeffreymouth",
+        "insurance": "Uninsured"
+    },
+    {
+        "patient_id": "9217c094-a89e-44ef-b7d1-3ab695640f0c",
+        "name": "Regina Henderson",
+        "age": 80,
+        "gender": "Female",
+        "medical_conditions": [
+            "heart disease"
+        ],
+        "medications": [
+            "amlodipine",
+            "albuterol"
+        ],
+        "lab_results": {
+            "A1C": 5.0,
+            "BP_sys": 169,
+            "BP_dia": 93,
+            "cholesterol": 168.6,
+            "heart_rate": 62
+        },
+        "location": "Port Daleton",
+        "insurance": "Uninsured"
+    },
+    {
+        "patient_id": "ea009ca6-2367-41da-8845-2b4240b1619c",
+        "name": "Jennifer Farley",
+        "age": 22,
+        "gender": "Other",
+        "medical_conditions": [
+            "cancer"
+        ],
+        "medications": [
+            "omeprazole"
+        ],
+        "lab_results": {
+            "A1C": 8.8,
+            "BP_sys": 131,
+            "BP_dia": 70,
+            "cholesterol": 231.8,
+            "heart_rate": 94
+        },
+        "location": "Jonesbury",
+        "insurance": "Private"
+    },
+    {
+        "patient_id": "a3252fe2-5254-469b-91c3-0fcf95b40ecf",
+        "name": "Christopher Miller",
+        "age": 74,
+        "gender": "Other",
+        "medical_conditions": [
+            "heart disease"
+        ],
+        "medications": [
+            "albuterol",
+            "insulin"
+        ],
+        "lab_results": {
+            "A1C": 9.2,
+            "BP_sys": 129,
+            "BP_dia": 70,
+            "cholesterol": 280.3,
+            "heart_rate": 70
+        },
+        "location": "Lake Stephanie",
+        "insurance": "Private"
+    },
+    {
+        "patient_id": "d59088b4-dc2d-4c5b-b991-e6efc40db22a",
+        "name": "Chad Martin",
+        "age": 55,
+        "gender": "Other",
+        "medical_conditions": [
+            "depression"
+        ],
+        "medications": [
+            "atorvastatin",
+            "insulin"
+        ],
+        "lab_results": {
+            "A1C": 8.5,
+            "BP_sys": 170,
+            "BP_dia": 81,
+            "cholesterol": 229.1,
+            "heart_rate": 94
+        },
+        "location": "New Karen",
+        "insurance": "Uninsured"
+    },
+    {
+        "patient_id": "fd888dd8-4ef2-442a-a03f-5eadde7ce89b",
+        "name": "Nicholas Rodriguez",
+        "age": 64,
+        "gender": "Male",
+        "medical_conditions": [
+            "arthritis",
+            "hypertension",
+            "diabetes"
+        ],
+        "medications": [
+            "sertraline",
+            "metformin"
+        ],
+        "lab_results": {
+            "A1C": 5.6,
+            "BP_sys": 95,
+            "BP_dia": 100,
+            "cholesterol": 232.8,
+            "heart_rate": 84
+        },
+        "location": "New Richardtown",
+        "insurance": "Private"
+    },
+    {
+        "patient_id": "c831fb68-6cee-44b8-bc07-e6135f50fd92",
+        "name": "Robert Moreno",
+        "age": 62,
+        "gender": "Female",
+        "medical_conditions": [
+            "asthma",
+            "anxiety"
+        ],
+        "medications": [
+            "insulin",
+            "albuterol"
+        ],
+        "lab_results": {
+            "A1C": 7.5,
+            "BP_sys": 160,
+            "BP_dia": 112,
+            "cholesterol": 232.1,
+            "heart_rate": 65
+        },
+        "location": "Fullerhaven",
+        "insurance": "Uninsured"
+    },
+    {
+        "patient_id": "f7285640-9ab0-44b0-a810-735fa586629e",
+        "name": "Curtis Hurley",
+        "age": 69,
+        "gender": "Male",
+        "medical_conditions": [
+            "asthma",
+            "hypertension",
+            "cancer"
+        ],
+        "medications": [
+            "sertraline",
+            "insulin"
+        ],
+        "lab_results": {
+            "A1C": 5.8,
+            "BP_sys": 103,
+            "BP_dia": 79,
+            "cholesterol": 261.6,
+            "heart_rate": 74
+        },
+        "location": "Port Heatherberg",
+        "insurance": "Medicaid"
+    },
+    {
+        "patient_id": "de23b6f4-dbc8-4eb6-8daa-c4969efaf670",
+        "name": "Kristin Jones",
+        "age": 83,
+        "gender": "Male",
+        "medical_conditions": [
+            "depression",
+            "cancer",
+            "asthma"
+        ],
+        "medications": [
+            "sertraline",
+            "omeprazole"
+        ],
+        "lab_results": {
+            "A1C": 9.8,
+            "BP_sys": 170,
+            "BP_dia": 72,
+            "cholesterol": 179.6,
+            "heart_rate": 86
+        },
+        "location": "South Meganshire",
+        "insurance": "Medicaid"
+    },
+    {
+        "patient_id": "0d1d1529-f0ab-4afa-87d1-ad56bb367e31",
+        "name": "Alicia Taylor",
+        "age": 57,
+        "gender": "Female",
+        "medical_conditions": [
+            "diabetes",
+            "cancer",
+            "asthma"
+        ],
+        "medications": [
+            "atorvastatin",
+            "amlodipine"
+        ],
+        "lab_results": {
+            "A1C": 12.0,
+            "BP_sys": 93,
+            "BP_dia": 65,
+            "cholesterol": 231.0,
+            "heart_rate": 95
+        },
+        "location": "South Blakeshire",
+        "insurance": "Private"
+    },
+    {
+        "patient_id": "ff566d6d-2323-4634-921b-950124ed9b4a",
+        "name": "Christina Thomas",
+        "age": 77,
+        "gender": "Female",
+        "medical_conditions": [
+            "heart disease",
+            "cancer"
+        ],
+        "medications": [
+            "amlodipine",
+            "lisinopril"
+        ],
+        "lab_results": {
+            "A1C": 11.9,
+            "BP_sys": 93,
+            "BP_dia": 65,
+            "cholesterol": 223.7,
+            "heart_rate": 89
+        },
+        "location": "Kennedyshire",
+        "insurance": "Medicare"
+    },
+    {
+        "patient_id": "78d75859-fade-4d02-a163-72ebdf1e846d",
+        "name": "Cindy Oconnell",
+        "age": 32,
+        "gender": "Other",
+        "medical_conditions": [
+            "cancer",
+            "COVID-19",
+            "anxiety"
+        ],
+        "medications": [
+            "sertraline",
+            "omeprazole"
+        ],
+        "lab_results": {
+            "A1C": 6.6,
+            "BP_sys": 148,
+            "BP_dia": 86,
+            "cholesterol": 173.5,
+            "heart_rate": 90
+        },
+        "location": "West Jasminefort",
+        "insurance": "Private"
+    },
+    {
+        "patient_id": "99580ea8-79de-42fd-93bf-a155e95e1ddd",
+        "name": "Jocelyn Harrington",
+        "age": 78,
+        "gender": "Male",
+        "medical_conditions": [
+            "arthritis"
+        ],
+        "medications": [
+            "albuterol"
+        ],
+        "lab_results": {
+            "A1C": 9.5,
+            "BP_sys": 118,
+            "BP_dia": 102,
+            "cholesterol": 168.8,
+            "heart_rate": 61
+        },
+        "location": "New Jessica",
+        "insurance": "Medicare"
+    },
+    {
+        "patient_id": "5f70435f-e8f3-46a7-8dd5-f06f4156a382",
+        "name": "Ryan Weaver",
+        "age": 74,
+        "gender": "Other",
+        "medical_conditions": [
+            "diabetes",
+            "obesity"
+        ],
+        "medications": [
+            "sertraline"
+        ],
+        "lab_results": {
+            "A1C": 5.5,
+            "BP_sys": 140,
+            "BP_dia": 67,
+            "cholesterol": 196.7,
+            "heart_rate": 88
+        },
+        "location": "Gallagherfurt",
+        "insurance": "Medicaid"
+    },
+    {
+        "patient_id": "ab05074f-b82c-4fca-ad92-cf068f8f5c2a",
+        "name": "Cynthia Bowman",
+        "age": 74,
+        "gender": "Female",
+        "medical_conditions": [
+            "cancer",
+            "arthritis",
+            "diabetes"
+        ],
+        "medications": [
+            "insulin"
+        ],
+        "lab_results": {
+            "A1C": 8.0,
+            "BP_sys": 128,
+            "BP_dia": 108,
+            "cholesterol": 194.3,
+            "heart_rate": 78
+        },
+        "location": "East Andrew",
+        "insurance": "Medicaid"
+    },
+    {
+        "patient_id": "6640d828-9c58-45f6-8690-117e64b2154a",
+        "name": "Sarah Gonzalez",
+        "age": 26,
+        "gender": "Female",
+        "medical_conditions": [
+            "cancer"
+        ],
+        "medications": [
+            "omeprazole"
+        ],
+        "lab_results": {
+            "A1C": 9.4,
+            "BP_sys": 114,
+            "BP_dia": 88,
+            "cholesterol": 169.4,
+            "heart_rate": 66
+        },
+        "location": "Colleentown",
+        "insurance": "Medicare"
+    },
+    {
+        "patient_id": "fe2e3b9a-ce7a-4ffd-80c4-f3c552f8c216",
+        "name": "Leslie Watts",
+        "age": 40,
+        "gender": "Other",
+        "medical_conditions": [
+            "diabetes",
+            "arthritis",
+            "COVID-19"
+        ],
+        "medications": [
+            "lisinopril",
+            "atorvastatin"
+        ],
+        "lab_results": {
+            "A1C": 9.2,
+            "BP_sys": 173,
+            "BP_dia": 103,
+            "cholesterol": 236.9,
+            "heart_rate": 78
+        },
+        "location": "Garrisonburgh",
+        "insurance": "Private"
+    },
+    {
+        "patient_id": "e643391a-53ba-4daf-a9e6-e0a237598d88",
+        "name": "Michelle Baker",
+        "age": 21,
+        "gender": "Other",
+        "medical_conditions": [
+            "asthma",
+            "diabetes",
+            "obesity"
+        ],
+        "medications": [
+            "insulin",
+            "lisinopril"
+        ],
+        "lab_results": {
+            "A1C": 5.7,
+            "BP_sys": 176,
+            "BP_dia": 79,
+            "cholesterol": 190.2,
+            "heart_rate": 98
+        },
+        "location": "Obrienbury",
+        "insurance": "Medicare"
+    },
+    {
+        "patient_id": "b5238d21-efe7-438e-9311-1d3d3644b928",
+        "name": "Haley Mcneil",
+        "age": 66,
+        "gender": "Female",
+        "medical_conditions": [
+            "COVID-19"
+        ],
+        "medications": [
+            "sertraline"
+        ],
+        "lab_results": {
+            "A1C": 8.3,
+            "BP_sys": 154,
+            "BP_dia": 73,
+            "cholesterol": 189.3,
+            "heart_rate": 87
+        },
+        "location": "Parsonsberg",
+        "insurance": "Medicaid"
+    },
+    {
+        "patient_id": "27ff9f89-6145-4847-8850-e615cee7392c",
+        "name": "Julie Hill",
+        "age": 54,
+        "gender": "Female",
+        "medical_conditions": [
+            "diabetes",
+            "arthritis"
+        ],
+        "medications": [
+            "amlodipine"
+        ],
+        "lab_results": {
+            "A1C": 9.1,
+            "BP_sys": 123,
+            "BP_dia": 78,
+            "cholesterol": 192.3,
+            "heart_rate": 72
+        },
+        "location": "Justinside",
+        "insurance": "Medicare"
+    }
+]

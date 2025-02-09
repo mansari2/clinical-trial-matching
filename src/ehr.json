@@ -1,0 +1,36 @@
+[
+    {
+        "patient_id": "7f8eae16-dfa5-4e48-96cf-1a3a6b24b2a7",
+        "name": "John Doe",
+        "age": 45,
+        "gender": "Male",
+        "medical_conditions": ["diabetes", "hypertension"],
+        "medications": ["metformin", "lisinopril"],
+        "lab_results": {
+            "A1C": 7.5,
+            "BP_sys": 140,
+            "BP_dia": 90,
+            "cholesterol": 210.5,
+            "heart_rate": 72
+        },
+        "location": "Austin",
+        "insurance": "Private"
+    },
+    {
+        "patient_id": "e9a9bc6f-9d17-4d4d-b019-2b85a99c107c",
+        "name": "Jane Smith",
+        "age": 60,
+        "gender": "Female",
+        "medical_conditions": ["arthritis", "depression"],
+        "medications": ["sertraline", "omeprazole"],
+        "lab_results": {
+            "A1C": 5.8,
+            "BP_sys": 120,
+            "BP_dia": 80,
+            "cholesterol": 195.2,
+            "heart_rate": 65
+        },
+        "location": "Dallas",
+        "insurance": "Medicare"
+    }
+]
