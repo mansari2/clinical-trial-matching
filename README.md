@@ -8,6 +8,10 @@ The Clinical Trial Matching project aims to bridge the gap between patients and 
 - Automated extraction and standardization of trial criteria from PDFs and unstructured text.
 - Interactive AI chatbots to guide patients in finding suitable trials.
 
+## Use of AI
+I initialized this project using Cursor to test out its functionality. The project structure will change quite a bit as I spec out remaining architecture and explore data sources.
+
+
 ## Project Structure
 ```
 clinical-trial-matching
